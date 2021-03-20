@@ -1,3 +1,3 @@
 # 20210320
-* GITHUB STUDY
-* 
+* GITTHUB STUDY
+* class
